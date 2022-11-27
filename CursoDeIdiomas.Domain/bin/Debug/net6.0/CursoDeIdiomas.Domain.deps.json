@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CursoDeIdiomas.Domain/1.0.0": {
+        "runtime": {
+          "CursoDeIdiomas.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoDeIdiomas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

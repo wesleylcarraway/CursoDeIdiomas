@@ -17,7 +17,6 @@ namespace CursoDeIdiomas.Infra.Mappings
 
             builder.Property(x => x.Nome).HasColumnName("nome").HasColumnType("varchar(50)").IsRequired().HasMaxLength(100);
             builder.Property(x => x.Email).HasColumnName("email").IsRequired().HasMaxLength(100);
-            builder.HasKey(x => x.Cpf);
             builder.Property(x => x.Cpf).HasColumnName("cpf").HasColumnType("varchar(11)").IsRequired().HasMaxLength(11);
 
             builder.HasMany(x => x.Turmas)
