@@ -27,7 +27,7 @@ namespace CursoDeIdiomas.Infra.Mappings
             builder
                 .HasOne(x => x.Curso)
                 .WithMany()
-                .HasForeignKey(x => x.Curso)
+                .HasForeignKey(x => x.CursoId)
                 .IsRequired()
                 .OnDelete(Microsoft.EntityFrameworkCore.DeleteBehavior.Restrict);
         }

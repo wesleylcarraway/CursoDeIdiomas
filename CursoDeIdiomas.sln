@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoDeIdiomas.API", "CursoDeIdiomas\CursoDeIdiomas.API.csproj", "{4CA905A5-6417-4967-8B46-C37C5B2A03C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoDeIdiomas.Domain", "CursoDeIdiomas.Domain\CursoDeIdiomas.Domain.csproj", "{537D9B2A-114D-4C8A-A6B9-91A71F004674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoDeIdiomas.Domain", "CursoDeIdiomas.Domain\CursoDeIdiomas.Domain.csproj", "{537D9B2A-114D-4C8A-A6B9-91A71F004674}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoDeIdiomas.Infra", "CursoDeIdiomas.Infra\CursoDeIdiomas.Infra.csproj", "{CABD203B-0932-4806-BBE2-70E2CF112A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoDeIdiomas.API", "CursoDeIdiomas.API\CursoDeIdiomas.API.csproj", "{CD29ADB3-46C8-4F2E-ADB5-7DB16953B2E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4CA905A5-6417-4967-8B46-C37C5B2A03C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4CA905A5-6417-4967-8B46-C37C5B2A03C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4CA905A5-6417-4967-8B46-C37C5B2A03C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4CA905A5-6417-4967-8B46-C37C5B2A03C5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{537D9B2A-114D-4C8A-A6B9-91A71F004674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{537D9B2A-114D-4C8A-A6B9-91A71F004674}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{537D9B2A-114D-4C8A-A6B9-91A71F004674}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{537D9B2A-114D-4C8A-A6B9-91A71F004674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABD203B-0932-4806-BBE2-70E2CF112A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABD203B-0932-4806-BBE2-70E2CF112A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABD203B-0932-4806-BBE2-70E2CF112A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABD203B-0932-4806-BBE2-70E2CF112A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD29ADB3-46C8-4F2E-ADB5-7DB16953B2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD29ADB3-46C8-4F2E-ADB5-7DB16953B2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD29ADB3-46C8-4F2E-ADB5-7DB16953B2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD29ADB3-46C8-4F2E-ADB5-7DB16953B2E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
