@@ -8,6 +8,6 @@ namespace CursoDeIdiomas.Application.ViewModels.Aluno
         public string Nome { get; set; }
         public string Cpf { get; set; }
         public string Email { get; set; }
-        public IEnumerable<TurmaResponse> Turmas { get; set; }
+        public List<TurmaMinimalResponse> Turmas { get; set; }
     }
 }

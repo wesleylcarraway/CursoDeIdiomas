@@ -1,9 +1,11 @@
 ﻿using CursoDeIdiomas.Application.Interfaces;
 using CursoDeIdiomas.Application.Services;
+using CursoDeIdiomas.Application.Validations;
 using CursoDeIdiomas.Domain.Interfaces;
 using CursoDeIdiomas.Infra.Context;
 using CursoDeIdiomas.Infra.Repositories;
 using CursoDeIdiomas.Infra.UnitOfWork;
+using FluentValidation.AspNetCore;
 
 namespace CursoDeIdiomas.API.Config
 {
@@ -20,6 +22,12 @@ namespace CursoDeIdiomas.API.Config
 
             services.AddScoped<IAlunoService, AlunoService>();
             services.AddScoped<ITurmaService, TurmaService>();
+
+            services.AddFluentValidation(fv =>
+            {
+                fv.AutomaticValidationEnabled = false;
+                fv.RegisterValidatorsFromAssemblyContaining<AlunoAddRequestValidator>();
+            });
 
             return services;
         }

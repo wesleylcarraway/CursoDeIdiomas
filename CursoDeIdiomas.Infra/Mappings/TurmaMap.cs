@@ -17,7 +17,7 @@ namespace CursoDeIdiomas.Infra.Mappings
             builder
                 .Property(x => x.Numero)
                 .HasColumnName("numero")
-                .HasMaxLength(1)
+                .HasMaxLength(int.MaxValue)
                 .IsRequired();
 
             builder

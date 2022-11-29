@@ -6,9 +6,9 @@ namespace CursoDeIdiomas.Application.Params
 {
     public class AlunoParams : BaseParams<Aluno>
     {
-        public string Nome { get; set; }
-        public string Cpf { get; set; }
-        public string Email { get; set; }
+        public string? Nome { get; set; }
+        public string? Cpf { get; set; }
+        public string? Email { get; set; }
 
         public override Expression<Func<Aluno, bool>> Filter()
         {

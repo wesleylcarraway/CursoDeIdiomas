@@ -16,15 +16,14 @@ namespace CursoDeIdiomas.Application.Mappers
             CreateMap<Turma, TurmaResponse>();
             CreateMap<Curso, CursoResponse>();
 
-            CreateMap<AlunoRequest, Aluno>()
-                .MergeList(x => x.Turmas, vm => vm.Turmas);
+            CreateMap<Aluno, AlunoMinimalResponse>();
+            CreateMap<Turma, TurmaMinimalResponse>();
 
-            CreateMap<AlunoSemCadastroDeTurmasRequest, Aluno>();
-                
-            CreateMap<TurmaRequest, Turma>()
-                .MergeList(x => x.Alunos, vm => vm.Alunos);
+            CreateMap<AlunoBaseRequest, Aluno>();
+            CreateMap<AlunoAddRequest, Aluno>();
+            CreateMap<AlunoUpdateRequest, Aluno>();  
 
-            CreateMap<TurmaSemCadastroDeAlunosRequest, Turma>();
+            CreateMap<TurmaRequest, Turma>();         
         }
     }
 }
