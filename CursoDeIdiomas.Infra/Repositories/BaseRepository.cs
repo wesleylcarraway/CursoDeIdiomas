@@ -79,7 +79,7 @@ namespace CursoDeIdiomas.Infra.Repositories
 
         public async Task<T> GetByIdAsync(int id)
         {
-            return await _dbSet.FirstOrDefaultAsync(x => x.Id == id);
+            return await Query().FirstOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task<IEnumerable<T>> GetAllAsync(

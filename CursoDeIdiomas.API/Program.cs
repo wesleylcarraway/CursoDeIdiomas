@@ -1,4 +1,5 @@
 using CursoDeIdiomas.API.Config;
+using CursoDeIdiomas.API.Filters;
 using CursoDeIdiomas.Application.Mappers;
 using CursoDeIdiomas.Infra.Context;
 using Microsoft.EntityFrameworkCore;
@@ -7,7 +8,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+
+builder.Services.AddControllers(opts =>
+{
+    opts.Filters.Add(new ApplicationExceptionFilter());
+});
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
 builder.Services.AddAutoMapper(typeof(MappingProfile));

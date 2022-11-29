@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "w3u5PBAMrXh37/B97Bd8ijWwynMlQ5awpMCrdruxL4Bk9Ji0WbmCbryI8tUiDGMjlPGFwvOGoZc7KaHA1kHlCg==",
+  "dgSpecHash": "j99qbAmiMqQT/i6KZ6D292pNn0dam249cv2m7Lwg4ViisEJ00tnpgVBKgexgEOoGo0g5M4UIvYQZrr4Jef0LNQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\wesle\\source\\repos\\CursoDeIdiomas\\CursoDeIdiomas.API\\CursoDeIdiomas.API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,8 @@
     "C:\\Users\\wesle\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\entityframework\\6.3.0\\entityframework.6.3.0.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\wesle\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\wesle\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\linqkit\\1.2.3\\linqkit.1.2.3.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\linqkit.core\\1.2.3\\linqkit.core.1.2.3.nupkg.sha512",

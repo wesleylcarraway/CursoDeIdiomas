@@ -7,6 +7,6 @@ namespace CursoDeIdiomas.Domain.Models
         public string Nome { get; set; }
         public string Cpf { get; set; }
         public string Email { get; set; }
-        public IEnumerable<Turma> Turmas { get; set; }
+        public List<Turma> Turmas { get; set; } = new List<Turma>();
     }
 }
