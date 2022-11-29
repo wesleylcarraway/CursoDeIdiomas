@@ -22,6 +22,7 @@ namespace CursoDeIdiomas.API.Config
 
             services.AddScoped<IAlunoService, AlunoService>();
             services.AddScoped<ITurmaService, TurmaService>();
+            services.AddScoped<IMatriculaService, MatriculaService>();
 
             services.AddFluentValidation(fv =>
             {
