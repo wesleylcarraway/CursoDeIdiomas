@@ -1,0 +1,17 @@
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\bin\Debug\net6.0\CursoDeIdiomas.Infra.deps.json
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\bin\Debug\net6.0\CursoDeIdiomas.Infra.runtimeconfig.json
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\bin\Debug\net6.0\CursoDeIdiomas.Infra.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\bin\Debug\net6.0\CursoDeIdiomas.Infra.pdb
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\bin\Debug\net6.0\CursoDeIdiomas.Domain.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\bin\Debug\net6.0\CursoDeIdiomas.Domain.pdb
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\obj\Debug\net6.0\CursoDeIdiomas.Infra.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\obj\Debug\net6.0\CursoDeIdiomas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\obj\Debug\net6.0\CursoDeIdiomas.Infra.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\obj\Debug\net6.0\CursoDeIdiomas.Infra.AssemblyInfo.cs
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\obj\Debug\net6.0\CursoDeIdiomas.Infra.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\obj\Debug\net6.0\CursoDeIdiomas.Infra.csproj.CopyComplete
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\obj\Debug\net6.0\CursoDeIdiomas.Infra.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\obj\Debug\net6.0\refint\CursoDeIdiomas.Infra.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\obj\Debug\net6.0\CursoDeIdiomas.Infra.pdb
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\obj\Debug\net6.0\CursoDeIdiomas.Infra.genruntimeconfig.cache
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Infra\obj\Debug\net6.0\ref\CursoDeIdiomas.Infra.dll

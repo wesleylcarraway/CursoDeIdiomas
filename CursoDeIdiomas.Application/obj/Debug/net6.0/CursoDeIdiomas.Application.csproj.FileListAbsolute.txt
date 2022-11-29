@@ -1,0 +1,17 @@
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\bin\Debug\net6.0\CursoDeIdiomas.Application.deps.json
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\bin\Debug\net6.0\CursoDeIdiomas.Application.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\bin\Debug\net6.0\CursoDeIdiomas.Application.pdb
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\bin\Debug\net6.0\CursoDeIdiomas.Domain.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\bin\Debug\net6.0\CursoDeIdiomas.Infra.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\bin\Debug\net6.0\CursoDeIdiomas.Domain.pdb
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\bin\Debug\net6.0\CursoDeIdiomas.Infra.pdb
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\obj\Debug\net6.0\CursoDeIdiomas.Application.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\obj\Debug\net6.0\CursoDeIdiomas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\obj\Debug\net6.0\CursoDeIdiomas.Application.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\obj\Debug\net6.0\CursoDeIdiomas.Application.AssemblyInfo.cs
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\obj\Debug\net6.0\CursoDeIdiomas.Application.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\obj\Debug\net6.0\CursoDeIdiomas.Application.csproj.CopyComplete
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\obj\Debug\net6.0\CursoDeIdiomas.Application.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\obj\Debug\net6.0\refint\CursoDeIdiomas.Application.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\obj\Debug\net6.0\CursoDeIdiomas.Application.pdb
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Application\obj\Debug\net6.0\ref\CursoDeIdiomas.Application.dll

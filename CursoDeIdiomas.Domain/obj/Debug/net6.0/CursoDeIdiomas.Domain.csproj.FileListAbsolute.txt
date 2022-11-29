@@ -1,0 +1,12 @@
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\bin\Debug\net6.0\CursoDeIdiomas.Domain.deps.json
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\bin\Debug\net6.0\CursoDeIdiomas.Domain.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\bin\Debug\net6.0\CursoDeIdiomas.Domain.pdb
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\obj\Debug\net6.0\CursoDeIdiomas.Domain.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\obj\Debug\net6.0\CursoDeIdiomas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\obj\Debug\net6.0\CursoDeIdiomas.Domain.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\obj\Debug\net6.0\CursoDeIdiomas.Domain.AssemblyInfo.cs
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\obj\Debug\net6.0\CursoDeIdiomas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\obj\Debug\net6.0\CursoDeIdiomas.Domain.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\obj\Debug\net6.0\refint\CursoDeIdiomas.Domain.dll
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\obj\Debug\net6.0\CursoDeIdiomas.Domain.pdb
+C:\Users\wesle\source\repos\CursoDeIdiomas\CursoDeIdiomas.Domain\obj\Debug\net6.0\ref\CursoDeIdiomas.Domain.dll
